@@ -3,5 +3,6 @@
   - https://github.com/utsaslab/pebblesdb
 - Next, get the codes of pebigo
   - https://github.com/alicegawa/pebigo
-- At last, exec the script touched in this repository
+- At last, make directory for sample execution and exec the script touched in this repository
+  - ``` mkdir database; mkdir database/pebblesdb; mkdir database/pebblesdb/sample```
   - ``` ./exec_main.sh```
